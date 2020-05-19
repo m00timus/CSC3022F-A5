@@ -1,0 +1,1 @@
+the first PC explains majority of the variance ( data ) and therefore we can expect it to be a large percentage compared to PC2 

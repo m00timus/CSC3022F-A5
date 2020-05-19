@@ -1,0 +1,15 @@
+The eigenValues are: 
+154.311
+9.16296
+An EigenVector matrix is: 
+ 0.939141 -0.343532
+ 0.343532  0.939141
+The covariance matrix is: 
+137.181 46.8283
+46.8283 26.2925
+The total variance is: 
+163.474
+The percentage variance of PC1 is: 
+94.3948%
+The percentage variance of PC2 is: 
+5.60516%
